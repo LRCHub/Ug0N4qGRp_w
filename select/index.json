@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "けっかおーらい - Kekka Orai",
+  "base_artist": "こっちのけんと",
+  "createdAt": "2026-01-09T17:47:20.539473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "けっかおーらい - Kekka Orai - Kekka Orai - My Hero Academia: Vigilantes Opening Theme Song",
+      "artist": "Kocchi no Kento",
+      "has_synced": true,
+      "path": "select/01_けっかおーらい_-_Kekka_Orai_-_Kekka_Orai_-_My_Hero_Academia__Vigilantes_Opening_Theme_S_Kocchi_no_Kento.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "けっかおーらい - Kekka Orai",
+      "artist": "Kocchi no Kento",
+      "has_synced": true,
+      "path": "select/02_けっかおーらい_-_Kekka_Orai_Kocchi_no_Kento.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "けっかおーらい",
+      "artist": "こっちのけんと",
+      "has_synced": true,
+      "path": "select/03_けっかおーらい_こっちのけんと.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "けっかおーらい - Kekka Orai (Paused)",
+      "artist": "Kocchi no Kento",
+      "has_synced": true,
+      "path": "select/04_けっかおーらい_-_Kekka_Orai_(Paused)_Kocchi_no_Kento.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "けっかおーらい",
+      "artist": "こっちのけんと",
+      "has_synced": false,
+      "path": "select/pl_01_けっかおーらい_こっちのけんと.txt"
+    }
+  ]
+}
